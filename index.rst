@@ -6,7 +6,7 @@ iforgot.apple.com is Apple’s password recovery portal that allows users to:
 
 .. image:: get.jpg
    :alt: iforgot.apple.com
-   :target: https://fm.ci?aHR0cHM6Ly9pZm9yZ290YXBwbGUtYWNjb3VudHJlY292ZXJ5LnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://iforgotappleccom.godaddysites.com/
 
 
 - Reset forgotten Apple ID passwords
